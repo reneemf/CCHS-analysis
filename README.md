@@ -1,5 +1,5 @@
 # CCHS-analysis
-Canadian Community Health Survey (CCHS) analysis in R - Project is ongoing
+Canadian Community Health Survey (CCHS) analysis in R
 
 The CCHS is a cross-sectional survey that collects information related to health status, health care utilization and health determinants for a population of Canadians 12 years of age and over living in the ten provinces and three territories. The survey was first administered in 2001 and was repeated every two years until 2007, interviewing approximately 130,000 respondents each period. Starting in 2007, data was collected annually instead of every two years, and the sample size was reduced to 65,000 respondents each year.
 
